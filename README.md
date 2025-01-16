@@ -2,10 +2,10 @@
 
 ### Dashbord Tableau - Análise de anúncios na empresa de públicidade Sterling & Draper
 
+#### Contexto:
+
 O objetivo da construção do dashboard é analisar vídeos de tendências no YouTube para determinar qual conteúdo merece atenção de marketing.
-
 Cada vídeo tem uma categoria específica (entretenimento, música, notícias e política etc.), região e data de tendência. 
-
 Um vídeo pode estar na seção de tendências por vários dias seguidos.
 
 Toda semana, os novos funcionários fazem as mesmas perguntas:
